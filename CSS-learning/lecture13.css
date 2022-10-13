@@ -1,0 +1,25 @@
+h1 {
+    color: blueviolet;
+    text-align: center;
+    font-size: 40px;
+    font-style: oblique;
+}
+
+.list {
+    color: black;
+    font-size: 20px;
+    background-color: aquamarine;
+    opacity: 0.8;
+}
+
+#copyright {
+    text-align: center;
+    font-size: 10px;
+    background-color: blanchedalmond;
+    opacity: 0.9;
+}
+
+section {
+    font-size: 30px;
+    font-style: italic;
+}
